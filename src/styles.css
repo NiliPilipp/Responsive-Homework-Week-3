@@ -133,3 +133,10 @@ p {
 #contact {
   margin-top: 50px;
 }
+footer {
+  margin-top: 50px;
+  font-family: monospace;
+  font-size: 14px;
+  display: block;
+  text-align: center;
+}
